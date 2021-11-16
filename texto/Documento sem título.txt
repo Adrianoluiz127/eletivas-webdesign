@@ -1,0 +1,38 @@
+﻿Web design
+
+
+Web design é um trabalho focado no planejamento e criação de sites, o Web designer precisa ter conhecimento sobre harmonia de cores, tipografia e diversos outros conceitos de design, também é necessário compreender outras áreas além das já citadas, áreas como arquitetura da informação, ergonomia, usabilidade, acessibilidade entre outros. 
+
+
+        A maior preocupação do Web designer é aplicar os conceitos de usabilidade e experiência do usuário ao design do site, garantindo que o usuário final de forma objetiva e agradável atinja seus objetivos.
+
+
+        Os sites na sua grande maioria são criados utilizando três linguagens de programação, HTML (Hypertext Markup Language ou Linguagem de Marcação de Hipertexto) , CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) e JavaScript, sendo o JavaScript uma linguagem de programação e HTML, CSS linguagens de Marcação.
+
+
+        Podemos explicar essas três linguagens como complementos umas das outras, o HTML  garante o conteúdo do site, como textos, links, vídeos, imagens,etc. O CSS dá estilo ao site descrevendo como os elementos são mostrados na tela. JavaScript é responsável pela interação no site, alguns exemplos de interatividade são:
+
+
+
+
+
+
+* mostrar e esconder informações ao clicar em um botão ou alguma parte do site
+* montar carrosséis de imagens com transições
+* zoom em imagens
+* timers ou contagem regressiva
+* animações
+* atualizar elementos sem a necessidade de atualizar a página
+
+
+
+
+
+
+
+
+
+
+RODAPÉ (E.E João Teixeira de Araujo
+Adriano Luiz da Silva
+Site criado para a aula de eletivas)
