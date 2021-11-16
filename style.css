@@ -116,7 +116,7 @@ header > h1 {
 }
 
 #body-artigo {
-    background-color: rgb(158, 172, 192);
+    background-color: rgb(201, 201, 245);
 }
 
 .artigo {
@@ -169,7 +169,7 @@ ul {
 #curiosidades {
     border-radius: 15px;
     padding: 50px 0px;
-    background-color: var(--cor03);
+    background-color: var(--cor04);
     width: 70%;
     margin: auto;
 }
