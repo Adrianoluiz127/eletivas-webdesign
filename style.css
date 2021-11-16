@@ -78,7 +78,7 @@ header > h1 {
 .foto {
     width: 90%;
     left: 20px;
-    top: 30px;
+    top: 55px;
     position: absolute;
     opacity: 0;
     animation-name: animacao;
